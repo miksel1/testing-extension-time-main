@@ -1,3 +1,6 @@
+# READ THIS!!!
+THIS IS NOT MINE! THIS WAS REDSTONESC'S REPO!
+
 # Guide on how to add it in your own mod!
 So, what you'd need to do is:
 * create media folder in openfl folder (source/openfl/media/)
